@@ -3,7 +3,7 @@ title: "【Digit Recognizer】Kerasを使ってCNN作ってMNISTの識別精度�
 emoji: "📝"
 type: "tech"
 topics: ["kaggle", "python", "keras", "mnist"]
-published: false
+published: true
 ---
 
 ![しぃ たけ](/images/tio-150x150.jpg)

@@ -3,7 +3,7 @@ title: "k-meansと階層的クラスター、実務で使うにはどっちが�
 emoji: "📝"
 type: "tech"
 topics: ["python", "scikitlearn", "scipy"]
-published: false
+published: true
 ---
 
 ![しぃたけ](/images/tio-150x150.jpg)

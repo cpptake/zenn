@@ -3,7 +3,7 @@ title: "Flaskで男女識別Webアプリ作ってオトンとオカンを識別�
 emoji: "📝"
 type: "tech"
 topics: ["python", "flask", "keras"]
-published: false
+published: true
 ---
 
 ![しぃたけ](/images/tio-150x150.jpg)

@@ -3,7 +3,7 @@ title: "【タイタニック】特徴量の追加とGridSearchで精度向上�
 emoji: "📝"
 type: "tech"
 topics: ["kaggle", "python", "pandas", "scikitlearn"]
-published: false
+published: true
 ---
 
 ## 背景

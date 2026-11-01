@@ -3,7 +3,7 @@ title: "【PyAutoGUI】Pythonでマウスの自動操作スクリプトを実装
 emoji: "📝"
 type: "tech"
 topics: ["python", "pyautogui"]
-published: false
+published: true
 ---
 
 ## 概要

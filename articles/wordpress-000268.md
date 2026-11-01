@@ -3,7 +3,7 @@ title: "CNNで男女識別器を作るまで【スクレイピング～顔検出
 emoji: "📝"
 type: "tech"
 topics: ["python", "opencv"]
-published: false
+published: true
 ---
 
 ![しぃたけ](/images/tio-150x150.jpg)

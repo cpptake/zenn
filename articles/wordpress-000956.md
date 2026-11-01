@@ -3,7 +3,7 @@ title: "【kaggle】AMEXコンペで銀メダルを獲得してKaggle Masterに�
 emoji: "📝"
 type: "tech"
 topics: ["kaggle", "lightgbm", "xgboost", "catboost", "tsfresh"]
-published: false
+published: true
 ---
 
 ## kaggle masterになりました

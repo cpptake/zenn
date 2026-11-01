@@ -3,7 +3,7 @@ title: "optunaでCNNのパラメータチューニングしてみる。MNISTコ�
 emoji: "📝"
 type: "tech"
 topics: ["python", "optuna", "keras", "kaggle", "mnist"]
-published: false
+published: true
 ---
 
 ## 概要

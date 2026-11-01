@@ -3,7 +3,7 @@ title: "cancerデータセットでスタッキングを実装。図解を添え
 emoji: "📝"
 type: "tech"
 topics: ["python", "scikitlearn"]
-published: false
+published: true
 ---
 
 ![しぃたけ](/images/tio-150x150.jpg)

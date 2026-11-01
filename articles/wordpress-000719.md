@@ -3,7 +3,7 @@ title: "【kaggle初心者必見】SkillUpAIの機械学習のためのPython入
 emoji: "📝"
 type: "tech"
 topics: ["python", "kaggle", "numpy", "pandas", "matplotlib"]
-published: false
+published: true
 ---
 
 ## 概要

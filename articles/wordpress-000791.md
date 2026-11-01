@@ -3,7 +3,7 @@ title: "kaggle expertになったのでIndoorコンペ、1週間で銅メダル�
 emoji: "📝"
 type: "tech"
 topics: ["kaggle"]
-published: false
+published: true
 ---
 
 ![しぃたけ](/images/tio-150x150.jpg)

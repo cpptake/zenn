@@ -3,7 +3,7 @@ title: "ラテン超方格法×モンテカルロ法で円周率を近似する"
 emoji: "📝"
 type: "tech"
 topics: ["python", "numpy", "matplotlib"]
-published: false
+published: true
 ---
 
 ## 概要

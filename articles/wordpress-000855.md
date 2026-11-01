@@ -3,7 +3,7 @@ title: "【kaggle】初めて参加した自然言語処理コンペの解法と
 emoji: "📝"
 type: "tech"
 topics: ["kaggle", "nlp", "bert", "scikitlearn"]
-published: false
+published: true
 ---
 
 ![しぃたけ](/images/tio-150x150.jpg)

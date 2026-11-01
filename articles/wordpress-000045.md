@@ -3,7 +3,7 @@ title: "Kaggle初心者がタイタニックを提出するまでの話"
 emoji: "📝"
 type: "tech"
 topics: ["kaggle", "python", "pandas", "scikitlearn"]
-published: false
+published: true
 ---
 
 ## はじめに

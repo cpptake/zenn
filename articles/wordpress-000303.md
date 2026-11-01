@@ -3,7 +3,7 @@ title: "CNNで男女識別器を作るまで【ｎ増し～モデル作成まで
 emoji: "📝"
 type: "tech"
 topics: ["python", "keras"]
-published: false
+published: true
 ---
 
 ## 概要

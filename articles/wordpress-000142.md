@@ -3,7 +3,7 @@ title: "【Digit Recognizer】多層パーセプトロン（ディープラー�
 emoji: "📝"
 type: "tech"
 topics: ["kaggle", "python", "mnist", "scikitlearn"]
-published: false
+published: true
 ---
 
 ![しぃたけ](/images/tio-150x150.jpg)

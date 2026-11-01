@@ -3,7 +3,7 @@ title: "今期中にKaggleExpertになろうと思うんですが質問ありま
 emoji: "📝"
 type: "tech"
 topics: ["kaggle"]
-published: false
+published: true
 ---
 
 ![しぃたけ](/images/tio-150x150.jpg)

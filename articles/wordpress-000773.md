@@ -3,7 +3,7 @@ title: "optunaのvisualization機能で探索結果を図示してみる"
 emoji: "📝"
 type: "tech"
 topics: ["python", "optuna", "plotly", "keras"]
-published: false
+published: true
 ---
 
 ## 概要

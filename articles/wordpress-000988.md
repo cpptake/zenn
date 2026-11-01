@@ -3,7 +3,7 @@ title: "【AWS SAA受験記】AWS Certified Solutions Architect – Associateの
 emoji: "📝"
 type: "tech"
 topics: ["aws", "awssaa"]
-published: false
+published: true
 ---
 
 ## はじめに

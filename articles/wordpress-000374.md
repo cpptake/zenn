@@ -3,7 +3,7 @@ title: "【Animal Crossing】Kaggleのあつまれ どうぶつの森データ�
 emoji: "📝"
 type: "tech"
 topics: ["kaggle", "python", "pandas", "scikitlearn"]
-published: false
+published: true
 ---
 
 ![しぃたけ](/images/tio-150x150.jpg)

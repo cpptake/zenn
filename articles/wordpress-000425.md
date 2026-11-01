@@ -3,7 +3,7 @@ title: "pydicomを使ってDICOM形式の医療画像を扱いたい"
 emoji: "📝"
 type: "tech"
 topics: ["python", "pydicom", "dicom"]
-published: false
+published: true
 ---
 
 ![しぃたけ](/images/tio-150x150.jpg)

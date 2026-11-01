@@ -3,7 +3,7 @@ title: "【House Price】住宅価格予測コンペ前処理編"
 emoji: "📝"
 type: "tech"
 topics: ["kaggle", "python", "pandas"]
-published: false
+published: true
 ---
 
 ## 概要

@@ -3,7 +3,7 @@ title: "【HousePrice】アンサンブル学習使って精度向上した話"
 emoji: "📝"
 type: "tech"
 topics: ["kaggle", "python", "scikitlearn", "xgboost", "lightgbm"]
-published: false
+published: true
 ---
 
 ![しぃ たけ](/images/tio-150x150.jpg)

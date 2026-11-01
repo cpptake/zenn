@@ -3,7 +3,7 @@ title: "plotlyでグリグリ動くインタラクティブなグラフを作り
 emoji: "📝"
 type: "tech"
 topics: ["python", "plotly", "pandas"]
-published: false
+published: true
 ---
 
 ![しぃたけ](/images/tio-150x150.jpg)

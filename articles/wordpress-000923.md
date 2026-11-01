@@ -3,7 +3,7 @@ title: "【kaggle】うっかり金メダルを獲得してしまったPetfinder
 emoji: "📝"
 type: "tech"
 topics: ["kaggle", "albumentations"]
-published: false
+published: true
 ---
 
 ## 金メダルを獲得しました

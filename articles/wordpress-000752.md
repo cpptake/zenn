@@ -3,7 +3,7 @@ title: "【Webスクレイピング】pythonでyoutube data apiを叩いて動�
 emoji: "📝"
 type: "tech"
 topics: ["python", "youtubeapi", "pandas"]
-published: false
+published: true
 ---
 
 ## 概要

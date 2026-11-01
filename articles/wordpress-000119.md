@@ -3,7 +3,7 @@ title: "【Digit Recognizer】MNISTの数字識別コンペ 前処理編"
 emoji: "📝"
 type: "tech"
 topics: ["kaggle", "python", "mnist", "numpy", "pandas"]
-published: false
+published: true
 ---
 
 ## 背景

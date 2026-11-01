@@ -3,7 +3,7 @@ title: "細かいことは置いといてLSTMで株価予測を試してみる"
 emoji: "📝"
 type: "tech"
 topics: ["python", "keras", "lstm"]
-published: false
+published: true
 ---
 
 ## 概要
